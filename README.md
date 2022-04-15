@@ -1,7 +1,7 @@
 ## Data Cleaning 
 
-# Dataset _https://www.kaggle.com/jrobischon/wikipedia-movie-plots_
-# Dataset _https://www.kaggle.com/karrrimba/movie-metadatacsv_
+### Dataset _https://www.kaggle.com/jrobischon/wikipedia-movie-plots_
+### Dataset _https://www.kaggle.com/karrrimba/movie-metadatacsv_
 
 O objetivo principal era prever o gênero do filme com base na descrição da trama
 utilizando o primeiro dataset, porém durante a análise dos dados observei que a coluna genêro desse dataset possui muitos valores incorretos como: números, palavras incorretas, palavras escritas fora da ordem e palavras com variação ortográfica mais que se referem à mesma coisa.
